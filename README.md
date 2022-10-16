@@ -9,7 +9,7 @@ SME (small-medium enterprise) banking has business’ sign up for accounts (not 
 Design and implement an IM system & API to manage users and their permissions. The system should allow a user to login and access some resource based on their permissions.
 
 ### What we Expect
-The task is purposely left open-ended. You are *not* expected to built a fully functional IM service that caters for the variety of requirements in SME banking. Define your scope to best showcase your abilities whilst being completable in a weekend. Include this scope and reasoning behind it in your submission.
+The task is purposely left open-ended. You are **not** expected to built a fully functional IM service that caters for the variety of requirements in SME banking. Define your scope to best showcase your abilities whilst being completable in a weekend. Include this scope and reasoning behind it in your submission.
 
 Below are some requirements and recommendations:
 * The system **must** allow:
@@ -26,8 +26,8 @@ Below are some requirements and recommendations:
 	* Containerisation for local deployment, with strong documentation on how to setup
 	* Deployable to public cloud with instructions
 	* Self hosted with a link included
-* The solution **may** include test suite
-* The submissions **must** include a written summary as a `README`, that *should* cover
+* The solution **may** include a test suite
+* The submissions **must** include a written summary as a `README`, that **should** cover
 	* Instructions on how to deploy and run
 	* Key decisions and tradeoffs you made in built
 	* Areas of improvement in system
